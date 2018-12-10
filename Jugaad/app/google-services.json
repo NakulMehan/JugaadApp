@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1497335862",
+    "firebase_url": "https://jugaadapp-b2a98.firebaseio.com",
+    "project_id": "jugaadapp-b2a98",
+    "storage_bucket": "jugaadapp-b2a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1497335862:android:36936f912d0bb07f",
+        "android_client_info": {
+          "package_name": "com.a42energy.jugaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1497335862-s2t7410c0g4qogqq8ga5l9mtkgfkcpa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a42energy.jugaad",
+            "certificate_hash": "060235ce0d5793bbae0d899053dbac6c3d9577a7"
+          }
+        },
+        {
+          "client_id": "1497335862-8opshavs4vspkn7s1voippuaboikg75i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1G9YAzNSBveCNsMwLNo1MlHErW_GJJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1497335862-8opshavs4vspkn7s1voippuaboikg75i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
